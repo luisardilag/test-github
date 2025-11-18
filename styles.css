@@ -4,3 +4,9 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+
+h1 {
+    color: #007acc;
+    text-align: center;
+    padding: 20px 0;
+}
